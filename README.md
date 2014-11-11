@@ -5,7 +5,7 @@ mac_facts
 
 This a collection of Facts specific to managing OS X clients with Puppet.
 
-###mac_firmware
+###mac_firmwarepass
 
 OSX 10.10 ONLY - Returns if firmware password is set
 
