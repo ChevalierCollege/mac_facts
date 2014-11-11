@@ -5,6 +5,15 @@ mac_facts
 
 This a collection of Facts specific to managing OS X clients with Puppet.
 
+###mac_firmware
+
+OSX 10.10 ONLY - Returns if firmware password is set
+
+###mac_bluetooth_macaddr
+
+MAC address of bluetooth interface
+
+
 ###mac_admin_users
 
 A comma separated list of users in the admin group
